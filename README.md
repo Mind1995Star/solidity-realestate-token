@@ -7,4 +7,3 @@ It showcases key opportunities that immutable distributed ledgers and Solidity s
 * tracking equity in real-estate
 * getting dividends
 * tokenization of equity and trading
-* 
